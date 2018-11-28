@@ -10,5 +10,84 @@ Used Values in result file "tidy_data_assignmentwk4.txt"
 - 6: LAYING: subject is laying down
 
 ## values, column names:
-activity: activity description
-subject: subject number (1 to 30)
+1: activity: activity description
+2: subject: subject number (1 to 30)
+3: tBodyAcc_std_X
+4: tBodyAcc_std_Y
+5: tBodyAcc_std_Z
+6: tGravityAcc_std_X
+7: tGravityAcc_std_Y
+8: tGravityAcc_std_Z
+9: tBodyAccJerk_std_X
+10: tBodyAccJerk_std_Y
+11: tBodyAccJerk_std_Z
+12: tBodyGyro_std_X
+13: tBodyGyro_std_Y
+14: tBodyGyro_std_Z
+15: tBodyGyroJerk_std_X
+16: tBodyGyroJerk_std_Y
+17: tBodyGyroJerk_std_Z
+18: tBodyAccMag_std
+19: tGravityAccMag_std
+20: tBodyAccJerkMag_std
+21: tBodyGyroMag_std
+22: tBodyGyroJerkMag_std
+23: fBodyAcc_std_X
+24: fBodyAcc_std_Y
+25: fBodyAcc_std_Z
+26: fBodyAccJerk_std_X
+27: fBodyAccJerk_std_Y
+28: fBodyAccJerk_std_Z
+29: fBodyGyro_std_X
+30: fBodyGyro_std_Y
+31: fBodyGyro_std_Z
+32: fBodyAccMag_std
+33: fBodyBodyAccJerkMag_std
+34: fBodyBodyGyroMag_std
+35: fBodyBodyGyroJerkMag_std
+36: tBodyAcc_mean_X
+37: tBodyAcc_mean_Y
+38: tBodyAcc_mean_Z
+39: tGravityAcc_mean_X
+40: tGravityAcc_mean_Y
+41: tGravityAcc_mean_Z
+42: tBodyAccJerk_mean_X
+43: tBodyAccJerk_mean_Y
+44: tBodyAccJerk_mean_Z
+45: tBodyGyro_mean_X
+46: tBodyGyro_mean_Y
+47: tBodyGyro_mean_Z
+48: tBodyGyroJerk_mean_X
+49: tBodyGyroJerk_mean_Y
+50: tBodyGyroJerk_mean_Z
+51: tBodyAccMag_mean
+52: tGravityAccMag_mean
+53: tBodyAccJerkMag_mean
+54: tBodyGyroMag_mean
+55: tBodyGyroJerkMag_mean
+56: fBodyAcc_mean_X
+57: fBodyAcc_mean_Y
+58: fBodyAcc_mean_Z
+59: fBodyAccJerk_mean_X
+60: fBodyAccJerk_mean_Y
+61: fBodyAccJerk_mean_Z
+62: fBodyGyro_mean_X
+63: fBodyGyro_mean_Y
+64: fBodyGyro_mean_Z
+65: fBodyAccMag_mean
+66: fBodyBodyAccJerkMag_mean
+67: fBodyBodyGyroMag_mean
+68: fBodyBodyGyroJerkMag_mean
+69: fBodyAcc_meanFreq_X
+70: fBodyAcc_meanFreq_Y
+71: fBodyAcc_meanFreq_Z
+72: fBodyAccJerk_meanFreq_X
+73: fBodyAccJerk_meanFreq_Y
+74: fBodyAccJerk_meanFreq_Z
+75: fBodyGyro_meanFreq_X
+76: fBodyGyro_meanFreq_Y
+77: fBodyGyro_meanFreq_Z
+78: fBodyAccMag_meanFreq
+79: fBodyBodyAccJerkMag_meanFreq
+80: fBodyBodyGyroMag_meanFreq
+81: fBodyBodyGyroJerkMag_meanFreq
