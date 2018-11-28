@@ -10,17 +10,17 @@ Used Values in result file "tidy_data_assignmentwk4.txt"
 - 6: LAYING: subject is laying down
 
 ## values, column names:
--1: activity: activity description
--2: subject: subject number (1 to 30)
--3: tBodyAcc_std_X
--4: tBodyAcc_std_Y
--5: tBodyAcc_std_Z
--6: tGravityAcc_std_X
--7: tGravityAcc_std_Y
--8: tGravityAcc_std_Z
--9: tBodyAccJerk_std_X
--10: tBodyAccJerk_std_Y
--11: tBodyAccJerk_std_Z
+- 1: activity: activity description
+- 2: subject: subject number (1 to 30)
+- 3: tBodyAcc_std_X
+- 4: tBodyAcc_std_Y
+- 5: tBodyAcc_std_Z
+- 6: tGravityAcc_std_X
+- 7: tGravityAcc_std_Y
+- 8: tGravityAcc_std_Z
+- 9: tBodyAccJerk_std_X
+- 10: tBodyAccJerk_std_Y
+- 11: tBodyAccJerk_std_Z
 -12: tBodyGyro_std_X
 -13: tBodyGyro_std_Y
 -14: tBodyGyro_std_Z
